@@ -8,12 +8,12 @@ To run the demo locally, follow these steps:
 
 1. Clone the repository: 
    ```
-   git clone https://github.com/your-username/demo-figma-to-mui-nextjs-13.git
+   git clone https://github.com/switch247/figma_mui_nextjs_demo.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd demo-figma-to-mui-nextjs-13
+   cd figma_mui_nextjs_demo
    ```
 
 3. Install the dependencies:
@@ -45,7 +45,7 @@ To run the demo locally, follow these steps:
 - React Documentation: 
 
 ## Screenshots
-[!screenshot](screenshots/figmalanding.png)
+[!screenshot](/screenshots/figmalanding.png)
 
 
 <!-- [https://www.figma.com/community/file/1222060007934600841](figma) -->
