@@ -1,0 +1,71 @@
+.image18Icon {
+  align-self: stretch;
+  height: 199.1px;
+  position: relative;
+  border-radius: 5.57px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.creatingStreamlinedSafeguard {
+  align-self: stretch;
+  position: relative;
+  line-height: 19.49px;
+  font-weight: 600;
+}
+.readmore {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 69px;
+}
+.arrowsDirectionsright {
+  height: 16.7px;
+  width: 16.7px;
+  position: relative;
+  object-fit: contain;
+}
+.content,
+.div,
+.readmoreParent {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.readmoreParent {
+  height: 31.1px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5.600000000000023px var(--padding-35xl) var(--padding-7xs-5);
+  gap: 5.56855583190918px;
+  text-align: left;
+  color: var(--color-forestgreen-100);
+}
+.content,
+.div {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content {
+  width: 220.7px;
+  border-radius: 5.57px;
+  background-color: var(--neutral-silver);
+  box-shadow: 0 5.6px 11.14px rgba(171, 190, 209, 0.4);
+  padding: 11.199999999999932px 11.199999999999363px 11.100000000000025px
+    11.100000000000364px;
+  gap: 11.13711166381836px;
+  z-index: 1;
+  margin-top: -66.82px;
+}
+.div {
+  align-self: stretch;
+  width: 256.2px;
+  flex-shrink: 0;
+  padding: var(--padding-0) var(--padding-0) 0.09999999999990904px;
+  text-align: center;
+  font-size: var(--font-size-sm-9);
+  color: var(--neutral-grey);
+  font-family: var(--font-inter);
+}

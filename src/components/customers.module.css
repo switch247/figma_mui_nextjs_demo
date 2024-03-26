@@ -1,0 +1,174 @@
+.image9Icon {
+  height: 100%;
+  width: 100%;
+  min-height: 227px;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 6px;
+  transform: scale(1.098);
+}
+.wrapperImage9 {
+  height: 226.9px;
+  width: 226.9px;
+  position: relative;
+  border-radius: 5.57px;
+  min-height: 227px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.weHaveEnjoyed {
+  line-height: 16.71px;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+.britishDragonBoat,
+.timSmith,
+.weHaveEnjoyed {
+  align-self: stretch;
+  position: relative;
+}
+.timSmith {
+  line-height: 20px;
+  font-weight: 600;
+}
+.britishDragonBoat {
+  font-size: var(--font-size-xs-1);
+  line-height: 17px;
+  color: var(--neutral-l-grey);
+}
+.content1,
+.timSmithParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.timSmithParent {
+  padding: var(--padding-0) var(--padding-0) 0.09999999999990904px;
+  gap: 5.56855583190918px;
+  flex-shrink: 0;
+  font-size: var(--font-size-sm-9);
+  color: var(--color-forestgreen-100);
+}
+.content1 {
+  padding: var(--padding-0) var(--padding-0) var(--padding-0);
+  gap: 11.13711166381836px;
+}
+.logoIcon,
+.logoIcon1,
+.logoIcon2,
+.logoIcon3,
+.logoIcon4,
+.logoIcon5 {
+  height: 33.4px;
+  width: 33.4px;
+  position: relative;
+  border-radius: 5.57px;
+  min-height: 33px;
+}
+.companyListItems {
+  width: 343.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.meetAllCustomers {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.arrowsDirectionsright {
+  height: 16.7px;
+  width: 16.7px;
+  position: relative;
+  object-fit: contain;
+}
+.emailInputField,
+.footerBig {
+  flex-direction: row;
+  align-items: center;
+}
+.footerBig {
+  height: 31.1px;
+  display: flex;
+  justify-content: flex-start;
+  padding: 5.500000000000114px var(--padding-0) 5.599999999999909px
+    var(--padding-7xs-5);
+  box-sizing: border-box;
+  gap: 5.56855583190918px;
+}
+.emailInputField {
+  align-self: stretch;
+  gap: 22.27422332763672px;
+  font-size: var(--font-size-sm-9);
+  color: var(--color-forestgreen-100);
+}
+.content,
+.customers,
+.emailInputField {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.content {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 22.27422332763672px;
+  min-width: 339px;
+}
+.customers {
+  margin-right: -1.9999999999997728px;
+  margin-bottom: 22.200000000000045px;
+  align-self: stretch;
+  background-color: var(--neutral-silver);
+  flex-direction: row;
+  align-items: center;
+  padding: 22.299999999999955px 100.19999999999982px 22.300000000000068px
+    100.20000000000029px;
+  box-sizing: border-box;
+  gap: 54.293418884277344px;
+  text-align: left;
+  font-size: var(--font-size-xs-1);
+  color: var(--neutral-grey);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 975px) {
+  .image9Icon {
+    flex: 1;
+  }
+  .customers {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 700px) {
+  .emailInputField {
+    flex-wrap: wrap;
+  }
+  .content {
+    min-width: 100%;
+  }
+  .customers {
+    gap: 54.3px 27px;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .companyListItems {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .customers {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

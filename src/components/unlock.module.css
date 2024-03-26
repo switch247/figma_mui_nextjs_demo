@@ -1,0 +1,440 @@
+.floorIcon {
+  position: absolute;
+  top: 301.3px;
+  left: 38.9px;
+  width: 223.1px;
+  height: 0.4px;
+}
+.backgroundCompleteIcon,
+.plantIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 307.3px;
+  height: 264.9px;
+}
+.plantIcon {
+  top: 136.8px;
+  left: 200.1px;
+  width: 59.8px;
+  height: 102.9px;
+  z-index: 2;
+}
+.listItemsIcon,
+.padlockIcon {
+  position: absolute;
+  top: 3.4px;
+  left: 196.6px;
+  width: 59.9px;
+  height: 71.7px;
+  z-index: 2;
+}
+.listItemsIcon {
+  top: 0;
+  left: 0;
+  width: 103.9px;
+  height: 211.8px;
+  z-index: 3;
+}
+.backgroundSimpleIcon,
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 94.4px;
+  height: 198px;
+  z-index: 4;
+}
+.backgroundSimpleIcon {
+  width: 55.4px;
+  height: 16.9px;
+  z-index: 5;
+}
+.singUp {
+  position: absolute;
+  height: calc(100% - 4.1px);
+  top: 4.1px;
+  left: 15.5px;
+  display: inline-block;
+  width: 69.1px;
+  z-index: 6;
+}
+.gestureRecognizer {
+  position: absolute;
+  top: 157.7px;
+  left: 19.5px;
+  width: 84.6px;
+  height: 76px;
+}
+.characterContainerIcon,
+.characterContainerIcon1 {
+  position: absolute;
+  top: 51.8px;
+  left: 12.6px;
+  width: 18.5px;
+  height: 3.5px;
+  object-fit: contain;
+  z-index: 5;
+}
+.characterContainerIcon1 {
+  z-index: 6;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 74.3px;
+  height: 12.7px;
+  z-index: 5;
+}
+.membershipRegionIcon,
+.vectorIcon2,
+.vectorParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 33.8px;
+  height: 3.2px;
+}
+.vectorIcon2 {
+  display: none;
+}
+.membershipRegionIcon,
+.vectorParent {
+  z-index: 7;
+}
+.vectorParent {
+  top: 4px;
+  left: 5.8px;
+  background-color: var(--color-forestgreen-100);
+  z-index: 6;
+}
+.informationRetriever,
+.vectorIcon3 {
+  position: absolute;
+  top: 60.1px;
+  left: 12.4px;
+  width: 74.3px;
+  height: 12.7px;
+}
+.vectorIcon3 {
+  top: 0;
+  left: 0;
+  height: 12.6px;
+  z-index: 5;
+}
+.vectorIcon4,
+.vectorIcon5 {
+  position: absolute;
+  top: 4.7px;
+  left: 5.3px;
+  width: 33.9px;
+  height: 3.3px;
+  object-fit: contain;
+  z-index: 6;
+}
+.vectorIcon5 {
+  z-index: 7;
+}
+.emailParser,
+.vectorIcon6 {
+  position: absolute;
+  top: 91.1px;
+  left: 12.2px;
+  width: 74.3px;
+  height: 12.6px;
+}
+.vectorIcon6 {
+  top: 0;
+  left: 0;
+  height: 12.7px;
+  z-index: 5;
+}
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  position: absolute;
+  top: 0.1px;
+  left: 27.5px;
+  width: 3px;
+  height: 3.2px;
+  z-index: 6;
+}
+.vectorIcon8,
+.vectorIcon9 {
+  left: 32.1px;
+  height: 3px;
+}
+.vectorIcon9 {
+  left: 36.7px;
+}
+.groupIcon,
+.vectorGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 39.6px;
+  height: 3.3px;
+}
+.vectorGroup {
+  top: 5.3px;
+  left: 5.4px;
+  width: 39.7px;
+}
+.informationRetriever1 {
+  position: absolute;
+  top: 123.3px;
+  left: 12.2px;
+  width: 74.3px;
+  height: 12.7px;
+}
+.eventCalendarInfo,
+.eventCalendarInfo1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 9.5px;
+  height: 10.4px;
+  z-index: 5;
+}
+.eventCalendarInfo1 {
+  z-index: 6;
+}
+.eventCalendarInfoParent {
+  position: absolute;
+  top: 21.1px;
+  left: 45px;
+  width: 9.5px;
+  height: 10.4px;
+}
+.vectorIcon10,
+.vectorIcon11 {
+  position: absolute;
+  top: 34.2px;
+  left: 32.2px;
+  width: 34px;
+  height: 4.2px;
+  object-fit: contain;
+  z-index: 5;
+}
+.vectorIcon11 {
+  z-index: 6;
+}
+.sentimentAnalyzer {
+  position: absolute;
+  width: calc(100% - 9.5px);
+  top: 6.3px;
+  right: 4.8px;
+  left: 4.7px;
+  height: 198px;
+}
+.socialNetworkAnalyzer {
+  position: absolute;
+  top: 35.2px;
+  left: 113.5px;
+  width: 103.9px;
+  height: 211.8px;
+}
+.backgroundSimpleIcon1,
+.clusteringAlgorithm {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 264.9px;
+}
+.backgroundSimpleIcon1 {
+  width: 222.9px;
+  height: 207.7px;
+}
+.speechBubbleIcon {
+  position: absolute;
+  top: 35.9px;
+  left: 7.6px;
+  width: 37.1px;
+  height: 42.1px;
+  z-index: 2;
+}
+.movieRecommender {
+  position: absolute;
+  top: 61px;
+  left: 33.5px;
+  width: 222.9px;
+  height: 207.7px;
+}
+.vectorIcon12,
+.vectorIcon13,
+.vectorIcon14,
+.vectorIcon15 {
+  position: absolute;
+  top: 23.2px;
+  left: 71.1px;
+  width: 18.5px;
+  height: 3.5px;
+  object-fit: contain;
+  z-index: 5;
+}
+.vectorIcon13,
+.vectorIcon14,
+.vectorIcon15 {
+  z-index: 6;
+}
+.vectorIcon14,
+.vectorIcon15 {
+  top: 55.5px;
+  left: 71px;
+  z-index: 5;
+}
+.vectorIcon15 {
+  z-index: 6;
+}
+.vectorIcon16,
+.vectorIcon17 {
+  position: absolute;
+  top: 69px;
+  left: 76.2px;
+  width: 3px;
+  height: 3px;
+  z-index: 6;
+}
+.vectorIcon17 {
+  left: 80.8px;
+  height: 3.2px;
+}
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21 {
+  position: absolute;
+  top: 69px;
+  left: 85.4px;
+  width: 3px;
+  height: 3px;
+  z-index: 6;
+}
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21 {
+  left: 89.9px;
+}
+.vectorIcon20,
+.vectorIcon21 {
+  top: 69.1px;
+  left: 94.5px;
+}
+.vectorIcon21 {
+  left: 99.1px;
+}
+.characterIcon,
+.vectorContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 103px;
+  height: 200.3px;
+}
+.vectorContainer {
+  top: 101.1px;
+  left: 59.6px;
+}
+.regressionModel {
+  height: 301.7px;
+  width: 307.3px;
+  position: relative;
+  min-width: 307.3000000000002px;
+}
+.howToDesign,
+.oneEventCalendar {
+  align-self: stretch;
+  position: relative;
+}
+.howToDesign {
+  line-height: 30.63px;
+  font-weight: 600;
+}
+.oneEventCalendar {
+  font-size: var(--font-size-3xs-7);
+  line-height: 13.92px;
+  color: var(--neutral-grey);
+}
+.howToDesignYourSiteFooterParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11.099999999999907px;
+  flex-shrink: 0;
+}
+.button {
+  padding: 10px;
+  width: 105.5px;
+  height: 36.5px;
+}
+.dataProcessor,
+.shapeAssembler,
+.unlock {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shapeAssembler {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 22.299999999999955px;
+}
+.dataProcessor,
+.unlock {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.dataProcessor {
+  width: 418.3px;
+  flex-direction: column;
+  padding: 42.90000000000009px var(--padding-0) var(--padding-0);
+  min-width: 418.2999999999999px;
+  font-size: var(--font-size-6xl-1);
+  color: var(--neutral-d-grey);
+  font-family: var(--font-inter);
+}
+.unlock {
+  margin-right: -1.9999999999997728px;
+  margin-bottom: 22.200000000000273px;
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-0) 100.20000000000029px;
+  gap: 34.499999999999545px;
+  text-align: left;
+  font-size: var(--font-size-7xs-7);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-montserrat);
+}
+@media screen and (max-width: 975px) {
+  .dataProcessor,
+  .regressionModel {
+    flex: 1;
+  }
+  .unlock {
+    flex-wrap: wrap;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .dataProcessor {
+    min-width: 100%;
+  }
+  .unlock {
+    gap: 34.5px 17px;
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .howToDesign {
+    font-size: var(--font-size-xl);
+    line-height: 25px;
+  }
+}

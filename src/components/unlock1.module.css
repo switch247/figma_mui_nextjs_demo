@@ -1,0 +1,123 @@
+.unlockChild {
+  height: 301.4px;
+  width: 307.7px;
+  position: relative;
+}
+.theUnseenOf,
+.whenJoiningThe {
+  align-self: stretch;
+  position: relative;
+}
+.theUnseenOf {
+  line-height: 30.63px;
+  font-weight: 600;
+}
+.whenJoiningThe {
+  font-size: var(--font-size-3xs-7);
+  line-height: 13.92px;
+  color: var(--neutral-grey);
+}
+.theUnseenOfSpendingThreeYParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11.13711166381836px;
+}
+.button {
+  padding: 10px;
+
+  width: 105.5px;
+  height: 36.5px;
+}
+.frameParent {
+  width: 460.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) 41.799999999999955px 2.273736754432321e-13px
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: 22.27422332763672px;
+  min-width: 460.1px;
+  max-width: 100%;
+}
+.unlock,
+.unlock1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.unlock1 {
+  width: 1002.3px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-0) 100.20000000000005px var(--padding-0)
+    100.20000000000029px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.unlock {
+  margin-right: -1.9999999999997728px;
+  margin-bottom: 22.200000000000273px;
+  overflow-x: auto;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-6xl-1);
+  color: var(--neutral-d-grey);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 975px) {
+  .unlockChild {
+    flex: 1;
+  }
+  .frameParent {
+    flex: 1;
+    padding-right: var(--padding-0);
+    box-sizing: border-box;
+  }
+  .unlock1 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .unlockChild {
+    flex: 1;
+  }
+  .frameParent {
+    flex: 1;
+    padding-right: var(--padding-0);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .unlock1 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .unlockChild {
+    flex: 1;
+  }
+  .theUnseenOf {
+    font-size: var(--font-size-xl);
+    line-height: 25px;
+  }
+  .frameParent {
+    flex: 1;
+    padding-right: var(--padding-0);
+    box-sizing: border-box;
+  }
+  .unlock1 {
+    flex-wrap: wrap;
+  }
+}
